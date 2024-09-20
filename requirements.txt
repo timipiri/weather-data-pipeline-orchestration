@@ -1,0 +1,5 @@
+pandas
+requests
+apache-airflow[postgres]
+psycopg2
+python-dotenv
