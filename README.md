@@ -3,7 +3,7 @@ This project extracts data from a weather API, transforms the data and loads the
 
 STEPS INVOLVED INCLUDE:
 
-IMPORTING NECESSARY LIBRARIES: In this step we import all needed libraries as seen in the python code, assuming they've been installed previously. If the haven't been installed, you can use %pip install package_name
+IMPORTING NECESSARY LIBRARIES: In this step we import all needed libraries as seen in the python code, assuming they've been installed previously. If the haven't been installed, you can use pip install -r requirements.txt to install all the required libraries at once.
 
 DEFINE KEY PARAMETERS: Here we define key parameters to hold sensitive details. Note that a .env file has been created to hold the real values due to security concerns, and we are only referencing that file to get the real values. 
 
