@@ -1,4 +1,4 @@
-# weather-data-pipeline-ochestration
+# weather-data-pipeline-orchestration
 This project extracts data from a weather API, transforms the data and loads the data into PostgreSQL database.
 
 STEPS INVOLVED INCLUDE:
